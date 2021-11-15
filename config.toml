@@ -1,0 +1,4 @@
+baseURL = 'https://blog.notinprod.com'
+languageCode = 'en-us'
+title = 'NotInProd'
+theme = "pure"
