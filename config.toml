@@ -2,3 +2,6 @@ baseURL = 'https://blog.notinprod.com'
 languageCode = 'en-us'
 title = 'NotInProd'
 theme = "hugo-primer"
+copyright = ""
+languageCode = "en"
+
